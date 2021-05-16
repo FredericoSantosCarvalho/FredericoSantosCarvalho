@@ -1,5 +1,5 @@
 # Hello. I am Frederico.
-Hi, I'm in love with schedule. At the moment me is student for web developer.
+I graduted to become a math teachter in 2019, nevertheless I am also programing lover, since i took  some programing classes as  C++ and Java  during my undergraduate and Python by myself thereby I identified with that. Ever since, I have been study by my self and Nowedays I am taking an web developer  online course.
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredscarva@gmail.com)](mailto:fredscarva@gmail.com)
