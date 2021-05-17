@@ -2,6 +2,7 @@
 <p style="text-align: justify">Meu nome é Frederico Santos Carvalho, tenho 29 anos.
 Sou formado em Matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar um Desenvolvedor Web. Sou apaixonado por programação, já que tive algumas aulas de programação como C ++ e Java durante a minha graduação e Python por conta própria, portanto, me identifiquei com isso.
 desde então, tenho estudado sozinho e agora estou fazendo um curso online de Desenvolvedor Web</p>
+
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredscarva@gmail.com)](mailto:fredscarva@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredericoscantoscarvalho)](https://www.linkedin.com/in/fredericoscantoscarvalho)
