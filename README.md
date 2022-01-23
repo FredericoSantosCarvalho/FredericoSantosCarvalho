@@ -1,5 +1,5 @@
 # Olá
-Meu nome é Frederico Santos Carvalho, tenho 29 anos.
+Meu nome é Frederico Santos Carvalho, tenho 30 anos.
 <p style="text-align: justify">Sou formado em Matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar um Desenvolvedor Full-Stack. Sou apaixonado por programação, já que tive algumas aulas de programação como C ++ e Java durante a minha graduação e Python por conta própria, portanto, me identifiquei com python. Desde então, tenho estudado através de cursos.</p>
 
 ## Contatos
