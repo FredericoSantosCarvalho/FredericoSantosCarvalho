@@ -7,6 +7,8 @@ Meu nome é Frederico Santos Carvalho, tenho 30 anos.
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredericosantoscarvalho)](https://www.linkedin.com/in/fredericosantoscarvalho)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fredericosantoscarvalho/?hl=pt-br)](https://www.instagram.com/fredericosantoscarvalho/)
 
+## :man_technologist: Conhecimentos nas seguintes tecnologias: 
+
 <div align="center">
     <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,8 +19,7 @@ Meu nome é Frederico Santos Carvalho, tenho 30 anos.
     <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
-</div>  
-
+</div>
 
 
 <!--
