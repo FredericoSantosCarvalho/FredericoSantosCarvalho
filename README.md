@@ -1,6 +1,21 @@
 # Olá
 Meu nome é Frederico Santos Carvalho, tenho 30 anos.
-<p style="text-align: justify">Sou formado em Matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar um Desenvolvedor Full-Stack. Sou apaixonado por programação, já que tive algumas aulas de programação como C ++ e Java durante a minha graduação e Python por conta própria, portanto, me identifiquei com python. Desde então, tenho estudado através de cursos.</p>
+<p style="text-align: justify">Sou formado em Matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar Data Science. Estou focado em aprender SQL utiliando MySQL, Python e as ferramentas Power BI e Qlik.
+Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim de transferência da UFF do curso de matemática com ênfase em computacional. Lá cheguei a concluir as discicplinas de:
+ INFORMÁTICA(Introdução a Programacao com Portugal)
+ INTRODUÇÃO À MATEMÁTICA SUPERIOR
+ GEOMETRIA ANALÍTICA
+ FUNDAMENTOS DE MATEMÁTICA
+ PROGRAMAÇÃO DE COMPUTADORES (C++) 
+ ÁLGEBRA LINEAR I 
+ CÁLCULO DIFERENCIAL E INTEGRAL I
+ FÍSICA I 
+ EQUAÇÕES DIFERENCIAIS
+ PROBABILIDADE E ESTATÍSTICA 
+ CÁLCULO DIFERENCIAL E INTEGRAL 
+ PROGRAMAÇÃO(Java)
+ EQUAÇÕES DIFERENCIAIS PARCIAIS
+ </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
