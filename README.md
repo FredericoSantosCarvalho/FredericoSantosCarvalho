@@ -1,20 +1,20 @@
 # Olá
 Meu nome é Frederico Santos Carvalho, tenho 30 anos.
 <p style="text-align: justify">Sou formado em Matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar Data Science. Estou focado em aprender SQL utiliando MySQL, Python e as ferramentas Power BI e Qlik.
-Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim de transferência da UFF do curso de matemática com ênfase em computacional. Lá cheguei a concluir as discicplinas de:
-Informática(Introdução a Programacao com Portugal)
-<p>Introdução a matemática superior
-GEOMETRIA ANALÍTICA
-FUNDAMENTOS DE MATEMÁTICA
-PROGRAMAÇÃO DE COMPUTADORES (C++) 
- ÁLGEBRA LINEAR I 
- CÁLCULO DIFERENCIAL E INTEGRAL I
- FÍSICA I 
- EQUAÇÕES DIFERENCIAIS
- PROBABILIDADE E ESTATÍSTICA 
- CÁLCULO DIFERENCIAL E INTEGRAL 
- PROGRAMAÇÃO(Java)
- EQUAÇÕES DIFERENCIAIS PARCIAIS
+Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim de transferência da UFF do curso de matemática com ênfase em computacional. Lá cheguei a concluir as discicplinas de:<br/>
+- Informática(Introdução a Programacao com Portugal) <br />
+- Introdução a matemática superior <br />
+- Geometria Análitica <br />
+- Fundamentos de Matemática <br />
+- Programação de Compoutadores (C++) <br /> 
+- Álgebra Linear I <br />
+- Cálculo Diferencial e Integral I <br />
+- Física I <br />
+- Equações Diferênciais <br />
+- Probabilidade e estatísca
+- Cálculo Diferencial e Integral II <br />
+- Programação (Java) <br />
+- Equações Diferênciais Parciais <br />
  </p>
 
 <p align="center">
