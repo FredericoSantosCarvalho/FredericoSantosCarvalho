@@ -4,9 +4,9 @@ Meu nome é Frederico Santos Carvalho, tenho 30 anos.
 Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim de transferência da UFF do curso de matemática com ênfase em computacional. Lá cheguei a concluir as discicplinas de:
 Informática(Introdução a Programacao com Portugal)
 <p>Introdução a matemática superior</p>
- GEOMETRIA ANALÍTICA
- FUNDAMENTOS DE MATEMÁTICA
- PROGRAMAÇÃO DE COMPUTADORES (C++) 
+GEOMETRIA ANALÍTICA
+FUNDAMENTOS DE MATEMÁTICA
+PROGRAMAÇÃO DE COMPUTADORES (C++) 
  ÁLGEBRA LINEAR I 
  CÁLCULO DIFERENCIAL E INTEGRAL I
  FÍSICA I 
