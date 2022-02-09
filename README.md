@@ -11,7 +11,7 @@ Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim
 - Cálculo Diferencial e Integral I <br />
 - Física I <br />
 - Equações Diferênciais <br />
-- Probabilidade e estatísca
+- Probabilidade e estatísca  <br />
 - Cálculo Diferencial e Integral II <br />
 - Programação (Java) <br />
 - Equações Diferênciais Parciais <br />
