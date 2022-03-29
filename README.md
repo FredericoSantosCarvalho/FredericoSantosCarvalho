@@ -22,8 +22,7 @@ Tenho utilizado o GitHub como um portfólio dos meus projetos mais importantes.
 
 ## Framework | IDE | Tools
 <p>
-  <img src = 'imagens/visualStudio.png' width='70'/> 
-  <img src = 'imagens/daxstudio.png' width='70'/> 
+  <img src = 'imagens/visualStudio.png' width='70'/>  
   <img src = 'imagens/github.png' width='70'/> 
   <img src = 'imagens/pycharm.png' width='70'/> 
   <img src = 'imagens/mysql.png' width='70'/> 
