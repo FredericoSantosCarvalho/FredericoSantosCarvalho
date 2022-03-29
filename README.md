@@ -32,12 +32,19 @@ Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim
   </a>
 </p>
 
+
 ## Tecnologias 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+
+## Framework | IDE | Tools
+<img src = 'https://github.com/FredericoSantosCarvalho/FredericoSantosCarvalho/imagens/visualStudio.png' width='50'/> 
+
+
+## Data Science | Business Intelligence
 
 
 ## Contatos
