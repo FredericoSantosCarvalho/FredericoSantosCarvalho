@@ -32,7 +32,7 @@ Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim
   </a>
 </p>
 <!---
-## Tecnologias e Frameworks
+## Tecnologias 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
