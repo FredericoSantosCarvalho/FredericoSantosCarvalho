@@ -1,6 +1,6 @@
 # Olá
 Meu nome é Frederico Santos Carvalho, tenho 30 anos.
-<p style="text-align: justify">Sou formado em Matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar Data Science. Estou focado em aprender SQL utiliando MySQL, Python e as ferramentas Power BI e Qlik.
+<p style="text-align: justify">Sou formado em Matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar um Analista de Dados. Estou focado em aprender SQL, Python e as ferramentas Power BI e Qlik.
 Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim de transferência da UFF do curso de matemática com ênfase em computacional. Lá cheguei a concluir as discicplinas de:<br/>
 - Informática(Introdução a Programacao com Portugal) <br />
 - Introdução a matemática superior <br />
@@ -31,7 +31,14 @@ Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim
       src="https://github-readme-stats.vercel.app/api?username=fredericosantoscarvalho&show_icons=true&theme=white&include_all_commits=true&count_private=true">
   </a>
 </p>
-
+<!---
+## Tecnologias e Frameworks
+![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)]
+--->
 
 ## Contatos
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredscarva@gmail.com)](mailto:fredscarva@gmail.com)
@@ -40,17 +47,3 @@ Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim
 
 
 
-<!--
-**FredericoSantosCarvalho/fredericosantoscarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
