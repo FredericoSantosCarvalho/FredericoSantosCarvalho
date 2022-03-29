@@ -1,21 +1,8 @@
 # Olá
-Meu nome é Frederico Santos Carvalho, tenho 30 anos.
-<p style="text-align: justify">Sou formado em Matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar um Analista de Dados. Estou focado em aprender SQL, Python e as ferramentas Power BI e Qlik.
-Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim de transferência da UFF do curso de matemática com ênfase em computacional. Lá cheguei a concluir as discicplinas de:<br/>
-- Informática(Introdução a Programacao com Portugal) <br />
-- Introdução a matemática superior <br />
-- Geometria Análitica <br />
-- Fundamentos de Matemática <br />
-- Programação de Compoutadores (C++) <br /> 
-- Álgebra Linear I <br />
-- Cálculo Diferencial e Integral I <br />
-- Física I <br />
-- Equações Diferênciais <br />
-- Probabilidade e estatísca  <br />
-- Cálculo Diferencial e Integral II <br />
-- Programação (Java) <br />
-- Equações Diferênciais Parciais <br />
- </p>
+
+Meu nome é Frederico Santos Carvalho, tenho 30 anos.   <br>
+Sou formado em matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar um Analista de Dados, tenho uma base em Business Intelligence, Power BI, Qlik Sense, My SQL e Python. Agora estou focado em aprender Data Warehouse com SQL Server e Power BI.    <br>
+Tenho utilizado o GitHub como um portfólio dos meus projetos mais importantes.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -33,18 +20,24 @@ Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim
 </p>
 
 
-## Tecnologias 
-![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-
 ## Framework | IDE | Tools
-<img src = 'https://github.com/FredericoSantosCarvalho/FredericoSantosCarvalho/imagens/visualStudio.png' width='50'/> 
+<p>
+  <img src = 'imagens/visualStudio.png' width='70'/> 
+  <img src = 'imagens/daxstudio.png' width='70'/> 
+  <img src = 'imagens/github.png' width='70'/> 
+  <img src = 'imagens/pycharm.png' width='70'/> 
+  <img src = 'imagens/mysql.png' width='70'/> 
+  <img src = 'imagens/excel.png' width='70'/> 
+  <img src = 'imagens/microsoftsqlserver.png' width='70'/> 
+ <img src = 'imagens/python.png' width='70'/> 
+</p>
 
 
 ## Data Science | Business Intelligence
+<p>
+ <img src = 'imagens/powerbi.png' width='70'/> 
+ <img src = 'imagens/qliksense.png' width='70'/> 
+</p>
 
 
 ## Contatos
