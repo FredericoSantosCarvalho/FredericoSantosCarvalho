@@ -31,14 +31,14 @@ Sou apaixonado por programação e matemática, antes de estudar no IFRJ, eu vim
       src="https://github-readme-stats.vercel.app/api?username=fredericosantoscarvalho&show_icons=true&theme=white&include_all_commits=true&count_private=true">
   </a>
 </p>
-<!---
+
 ## Tecnologias 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)]
---->
+
+
 
 ## Contatos
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredscarva@gmail.com)](mailto:fredscarva@gmail.com)
