@@ -1,8 +1,8 @@
-# Olá
+# Hello!
 
-Meu nome é Frederico Santos Carvalho, tenho 30 anos.   <br>
-Sou formado em matemática pelo IFRJ no ano de 2019, atualmente estou estudando para me tornar um Analista de Dados, tenho uma base em Business Intelligence, Power BI, Qlik Sense, My SQL e Python. Agora estou focado em aprender Data Warehouse com SQL Server e Power BI.    <br>
-Tenho utilizado o GitHub como um portfólio dos meus projetos mais importantes.
+My name is Frederico Santos Carvalho, I am 30 years old. <br>
+I have a degree in mathematics from IFRJ in 2019, I am currently studying to become a Data Scientist, I have a background in Business Intelligence, Power BI, Qlik Sense, My SQL and Python. Now I'm focused on learning Data Science and Machine Learn <br>
+I've been using GitHub as a portfolio of my projects
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
