@@ -5,13 +5,7 @@ I have a degree in mathematics from IFRJ in 2019, I am currently studying to bec
 I've been using GitHub as a portfolio of my projects
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericosantoscarvalho&layout=compact&langs_count=7&theme= radical">
-  </a>
-  
-  <a href="https://github.com/fredericosantoscarvalho/github-readme-stats">
+   <a href="https://github.com/fredericosantoscarvalho/github-readme-stats">
     <img
       align="center"
       height="165"
