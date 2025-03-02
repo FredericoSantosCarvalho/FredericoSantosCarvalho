@@ -16,11 +16,11 @@ I've been using GitHub as a portfolio of my projects
 
 ## Framework | IDE | Tools
 <p>
-  <img src = 'imagens/visualstudio.png' width='70'/>  <br>
-  <img src = 'imagens/github.png' width='70'/> <br>
-  <img src = 'imagens/mysql.png' width='70'/> <br>
-  <img src = 'imagens/excel.png' width='70'/> <br>
-  <img src = 'imagens/python.png' width='70'/> <br>
+  <img src = 'imagens/visualstudio.png' width='70'/> 
+  <img src = 'imagens/github.png' width='70'/> 
+  <img src = 'imagens/mysql.png' width='70'/> 
+  <img src = 'imagens/excel.png' width='70'/> 
+  <img src = 'imagens/python.png' width='70'/> 
 </p>
 
 
@@ -32,7 +32,7 @@ I've been using GitHub as a portfolio of my projects
 
 
 ## Contatos
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredscarva@gmail.com)](mailto:fredscarva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fredscarva@gmail.com)](mailto:fredericoscarvalho@hotmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredericosantoscarvalho)](https://www.linkedin.com/in/fredericosantoscarvalho)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fredericosantoscarvalho/?hl=pt-br)](https://www.instagram.com/fredericosantoscarvalho/)
 
