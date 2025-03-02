@@ -18,7 +18,6 @@ I've been using GitHub as a portfolio of my projects
 <p>
   <img src = 'imagens/visualstudio.png' width='70'/>  
   <img src = 'imagens/github.png' width='70'/> 
-  <img src = 'imagens/pycharm.png' width='70'/> 
   <img src = 'imagens/mysql.png' width='70'/> 
   <img src = 'imagens/excel.png' width='70'/> 
  <img src = 'imagens/python.png' width='70'/> 
